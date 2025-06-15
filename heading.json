@@ -1,1 +1,107 @@
-{"type":"@webflow/XscpData","payload":{"nodes":[{"_id":"845030c9-be06-69e0-29c8-5ad6825335b8","type":"Heading","tag":"h1","classes":["371df249-b758-2994-8bf8-b7002977e615"],"children":["b08b09f5-cead-ebe7-1e19-e7fdd06fb327"],"data":{"tag":"h1","devlink":{"runtimeProps":{},"slot":""},"displayName":"","attr":{"id":""},"xattr":[],"search":{"exclude":false},"visibility":{"conditions":[]}}},{"_id":"b08b09f5-cead-ebe7-1e19-e7fdd06fb327","text":true,"v":"Style Guide"}],"styles":[{"_id":"371df249-b758-2994-8bf8-b7002977e615","fake":false,"type":"class","name":"styleguide_heading-header","namespace":"","comb":"","styleLess":"font-size: 6rem;","variants":{"medium":{"styleLess":"font-size: 4rem;"}},"children":[],"createdBy":"54441c96b0981db6504faf03","origin":null,"selector":null}],"assets":[],"ix1":[],"ix2":{"interactions":[],"events":[],"actionLists":[]}},"meta":{"droppedLinks":0,"dynBindRemovedCount":0,"dynListBindRemovedCount":0,"paginationRemovedCount":0,"universalBindingsRemovedCount":0,"unlinkedSymbolCount":0,"codeComponentsRemovedCount":0}}
+{
+  "type": "@webflow/XscpData",
+  "payload": {
+    "nodes": [
+      {
+        "_id": "a915a910-a310-b389-1061-d341ed24fc7e",
+        "type": "Paragraph",
+        "tag": "p",
+        "classes": [
+          "07815991-952a-8d98-0e00-e4c25af2715c",
+          "857fc54e-0a31-835a-29cd-5afec4aead7f",
+          "d4238747-080b-5cad-8ad8-0682ce8aafc4"
+        ],
+        "children": [
+          "5cd30eb1-436e-76f7-8ece-535ca266777b"
+        ],
+        "data": {
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "5cd30eb1-436e-76f7-8ece-535ca266777b",
+        "text": true,
+        "v": "Client-First is a set of guidelines and strategies created by Finsweet to help you build Webflow websites."
+      }
+    ],
+    "styles": [
+      {
+        "_id": "07815991-952a-8d98-0e00-e4c25af2715c",
+        "fake": false,
+        "type": "class",
+        "name": "p-size-medium",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "font-size: 1.25rem;",
+        "variants": {},
+        "children": [
+          "857fc54e-0a31-835a-29cd-5afec4aead7f"
+        ],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "857fc54e-0a31-835a-29cd-5afec4aead7f",
+        "fake": false,
+        "type": "class",
+        "name": "text-weight-bold",
+        "namespace": "",
+        "comb": "&",
+        "styleLess": "",
+        "variants": {},
+        "children": [
+          "d4238747-080b-5cad-8ad8-0682ce8aafc4"
+        ],
+        "createdBy": "60010f785611a12daa9e3a79",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "d4238747-080b-5cad-8ad8-0682ce8aafc4",
+        "fake": false,
+        "type": "class",
+        "name": "margin-bottom",
+        "namespace": "",
+        "comb": "&",
+        "styleLess": "",
+        "variants": {},
+        "children": [
+          "dba5d8ec-3c6f-48ba-88bb-36163b0671bb"
+        ],
+        "createdBy": "60010f785611a12daa9e3a79",
+        "origin": null,
+        "selector": null
+      }
+    ],
+    "assets": [],
+    "ix1": [],
+    "ix2": {
+      "interactions": [],
+      "events": [],
+      "actionLists": []
+    }
+  },
+  "meta": {
+    "droppedLinks": 0,
+    "dynBindRemovedCount": 0,
+    "dynListBindRemovedCount": 0,
+    "paginationRemovedCount": 0,
+    "universalBindingsRemovedCount": 0,
+    "unlinkedSymbolCount": 0,
+    "codeComponentsRemovedCount": 0
+  }
+}
